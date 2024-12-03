@@ -1,0 +1,44 @@
+<!DOCTYPe html>
+<html lang="pu-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Portafólio do Oráculo</title>
+</head>
+<body>
+    <header>
+        <img src="" alt="">
+    </header>
+    <p></p>
+    <h1></h1>
+    <p>Sou Karluis e sou venezolano. Aluno do colegio André Andreatta
+        
+        
+    </p>
+</body>
+</html>    
+<p>Minhas habilidades</p>
+<div>
+    <p>Video-Games</p>
+    <p>Esportes</p>
+</div>
+</header>
+<main class="container mt-5">
+    <h2>Meus projetos</h2>
+<main class="row"> 
+    <!--Projeto 1 -->
+    <div class="col-md-4">
+        <div class="card">
+            <img src="img/projeto-1.png" class="card-img-top" alt="Imagen do projeto de biblioteca virtual">
+            <div class="card-body">
+                <h5 class="card-title">Minha biblioteca: Uma Webpage Personalizada</h5>
+                <p class="card-text">Este projeto é uma página web que apresenta uma lista dos meus livros favoruto
+                    
+                    
+                    
+                    
+                    
+                    
+
+
